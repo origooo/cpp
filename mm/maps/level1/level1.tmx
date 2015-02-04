@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="e8tlSn3" tilewidth="16" tileheight="16" spacing="1" margin="1">
+  <image source="../e8tlSn3.png" trans="118fe2" width="885" height="715"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3FtqwlAARdH8tEOx859aOwHxqy0YyMvcra4N5zvK8gE34jRJkiRJkiRJ0rK+Pu3eeLTGozUerfFojUdrPFrj0RqP1l7Z4/tjmn4G7nZ9Hr+7DHx+ty7eHzw2dtbnxcieyeMd4tGKRyserXi04tGKRyserXi04tGKRyserXj8b+/9jzXnkfeu9Uz3P85oy+vz79ac1++9Fg8eZ8ejFY9WPFrxWF719zbv6nHEY3/0eLTGozUerfFojUdrPFrj0RqP1ni0xqM1Hq3xeOzW3k/fe/98y9nmqOqv96Nb+v4ZFQ8ePObjwYPHfDx48JiPBw8e8/HgwWM+HjyWeDzqP8ycJ27zOOrcfOtGxYMHj/lGPNcl3w17fxPP47XGozUerfFojUdrPFrj0RqP1ni0xqM1Hq3xaI1Hazxa49Eaj9Z4tMajNR6t8WiNR2s8WuPRGo/WRnUFZ6WeWw==
+  </data>
+ </layer>
+</map>
