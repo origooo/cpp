@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "C++ SDL Framework",
+            "shell_cmd": "g++ -Wall -std=c++11 *.cpp -o main -framework SDL2 -framework SDL2_image"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+1
+21
+24
+450
+450
+
+../units/player/pOneFrame.png

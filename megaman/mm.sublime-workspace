@@ -1,0 +1,877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"VIEW",
+				"VIEWPORT_HEIGHT"
+			],
+			[
+				"end",
+				"end{enumerate}	review_of_assignment_1_group_1.tex"
+			],
+			[
+				"VIEWPORT",
+				"VIEWPORT_HEIGHT"
+			],
+			[
+				"start",
+				"start_y"
+			],
+			[
+				"world_",
+				"world_pixel_height"
+			],
+			[
+				"pixel",
+				"pixel_width"
+			],
+			[
+				"tile",
+				"tile_size"
+			],
+			[
+				"get_po_",
+				"get_pos_y"
+			],
+			[
+				"get_po",
+				"get_pos_x"
+			],
+			[
+				"TILE_S",
+				"TILE_SIZE_X"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"cam_",
+				"cam_height"
+			],
+			[
+				"set_pos_",
+				"set_pos_x"
+			],
+			[
+				"TILE_SI",
+				"TILE_SIZE_Y"
+			],
+			[
+				"WORLD_",
+				"WORLD_WIDTH"
+			],
+			[
+				"SPLASH",
+				"SPLASH_OPEN_PDF"
+			],
+			[
+				"but",
+				"button_images"
+			],
+			[
+				"SPLA",
+				"SPLASH_OPEN_PDF"
+			],
+			[
+				"STATE",
+				"STATE_RUN"
+			],
+			[
+				"render_",
+				"render_run"
+			],
+			[
+				"swit",
+				"switch_background"
+			],
+			[
+				"fHeade",
+				"fHeaderSurface"
+			],
+			[
+				"SCREEN_",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCREEN",
+				"SCREEN_WIDTH"
+			],
+			[
+				"fHead",
+				"fHeaderTexture"
+			],
+			[
+				"CONTEN",
+				"CONTENT_RUN"
+			],
+			[
+				"usepacka",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"subsub",
+				"subsubsection[short]{title}	latex-document"
+			],
+			[
+				"ref",
+				"ref{key}	latex-document"
+			],
+			[
+				"begin",
+				"begin{abstract}	latex-document"
+			],
+			[
+				"Additi",
+				"AdditionalServiceComponent_AdditionalServiceEvent"
+			],
+			[
+				"Cred",
+				"CreditCardNumberGenerator"
+			],
+			[
+				"exp",
+				"expiryMonth"
+			],
+			[
+				"ex",
+				"expiryMonth"
+			],
+			[
+				"cite",
+				"cite{keylist}	latex-document"
+			],
+			[
+				"thispa",
+				"thispagestyle{empty/plain/headings/myheadings}	latex-document"
+			],
+			[
+				"subsubsec",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"subsec",
+				"subsection{title}	latex-document"
+			],
+			[
+				"documentclass",
+				"documentclass{style}	latex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mm.cpp",
+			"settings":
+			{
+				"buffer_size": 7969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/constants.h",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/graphics.h",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/actor.h",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/player.h",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/player.cpp",
+			"settings":
+			{
+				"buffer_size": 2260,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "C++ SDL Framework",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cache",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/patrikbackstrom/Git/cpp/mm",
+		"/Users/patrikbackstrom/Git/cpp/mm/src",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include",
+		"/Users/patrikbackstrom/Git/cpp/mm/units",
+		"/Users/patrikbackstrom/Git/cpp/mm/units/player"
+	],
+	"file_history":
+	[
+		"/Users/patrikbackstrom/Git/T4 Embedded/Patrik/C/ML13_irq_asm_dit165.s12",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/world.cpp",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/TeX template/Assignment_X.tex",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/mm.cpp",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/Review of our research/Notes.txt",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/Assignment_1.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/abstract.tex",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/.tags",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/Review of Group 1/review_of_assignment_1_group_1.tex",
+		"/Users/patrikbackstrom/Git/cpp/mm/units/player/unit_settings.txt",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/player.cpp",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/player.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/actor.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/map.cpp",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/cam.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/cam.cpp",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/tile.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/tile.cpp",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/map.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/.tags_sorted_by_file",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/graphics.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/world.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/units/player/settings.txt",
+		"/Users/patrikbackstrom/Git/cpp/mm/maps/level1/settings.txt",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/User/switch_script.py",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/usr/include/c++/4.2.1/tr1/stdlib.h",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/patrikbackstrom/.bash_profile",
+		"/Users/patrikbackstrom/Git/cpp/mm/mm.sublime-project",
+		"/Users/patrikbackstrom/Downloads/ctags-5.8/README",
+		"/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/sublime.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/Default.sublime-package",
+		"/Users/patrikbackstrom/Git/cpp/mm/maps/level1/level1.tmx",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/constants.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/src/include/cam.cpp",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/introduction.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/methodology.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/Assignment_bib.bib",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/acknowledgements.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/purpose.tex",
+		"/Users/patrikbackstrom/Downloads/IEEE_CS_Latex-2/latex8.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/researchQuestion.tex",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/player.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/actor.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/world.h",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/bz2/st3_osx_x64/_bz2.so",
+		"/Users/patrikbackstrom/Git/cpp/mm/mm.cpp",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/map.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/tile.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/maps/level1/level1.json",
+		"/Users/patrikbackstrom/Git/cpp/mm/maps/level1/bakNy.txt",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/cam.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/constants.h",
+		"/Users/patrikbackstrom/Git/cpp/mm/maps/level1/map_bak.txt",
+		"/Users/patrikbackstrom/Desktop/strtgmt.tex",
+		"/Users/patrikbackstrom/Git/Websites/weknowit/includes/iso.inc",
+		"/Users/patrikbackstrom/Git/cpp/mm/include/graphics.h",
+		"/Users/patrikbackstrom/Downloads/ADOBE_ILLUSTRATOR_CC_V2014_MULTI_MACOSX-XFORCE/install.txt",
+		"/private/etc/hosts",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/world.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/tile.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/cam.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/graphics.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/constants.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/mm.cpp",
+		"/private/var/folders/1v/rbn5l1zn0032bn0xkd9bpbtm0000gn/T/dropbox_error18zaXR.txt",
+		"/private/var/folders/1v/rbn5l1zn0032bn0xkd9bpbtm0000gn/T/dropbox_errorBnBgHh.txt",
+		"/private/var/folders/1v/rbn5l1zn0032bn0xkd9bpbtm0000gn/T/dropbox_errorb9zW_X.txt",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/include/graphics.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/main.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/main.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/include/map1.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/maps/level1/map1.txt",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/maps/level1/map1.json",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/mm/map1.tmx",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/include/constants.h",
+		"/Users/patrikbackstrom/Downloads/lesson09/lesson09.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/Tetris_SDL/g_interface.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/graphics.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/constants.h",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/main2.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/Lesson 1 - 6/main.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/L2.txt",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/poop.txt",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/pdf.txt",
+		"/Users/patrikbackstrom/Downloads/parserText.cpp",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/LazyReader/test.cpp",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/sections/purpose.text",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/introduction.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/abstract.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Assignment 1/Assignment_style.sty",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Ass1Tex/Assignment_bib.bib",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Ass1Tex/Assignment_1.tex",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/TeX template/latex8.tex",
+		"/Users/patrikbackstrom/Git/T5 Project/final_report/final_report_innit.tex",
+		"/Users/patrikbackstrom/Dropbox/TERM4/DIT548 Software process improvement/Final report/patrik_bäckström_spi.tex",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/patrikbackstrom/Git/T6/DIT590 Research Methods & Technical Writing/Assignments/Ass1Tex/latex8.tex",
+		"/Users/patrikbackstrom/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/patrikbackstrom/Downloads/IEEE_CS_Latex/latex8.tex",
+		"/Users/patrikbackstrom/Dropbox/Cplusplus/Game Of Life/Lesson 1 - 6/main.cpp",
+		"/Users/patrikbackstrom/Dropbox/Game Of Life/Lesson 1 - 6/main.cpp",
+		"/Users/patrikbackstrom/Dropbox/Game Of Life/Lesson 1 - 6/main",
+		"/Users/patrikbackstrom/Dropbox/Game Of Life/main.cpp",
+		"/Users/patrikbackstrom/Downloads/05_optimized_surface_loading_and_soft_stretching/05_optimized_surface_loading_and_soft_stretching.cpp",
+		"/Volumes/SDL2_image/ReadMe.txt",
+		"/Users/patrikbackstrom/Downloads/04_key_presses/04_key_presses.cpp",
+		"/Volumes/SDL2/ReadMe.txt",
+		"/Users/patrikbackstrom/Library/Application Support/Bix/Drive/Bix - origo/CVLaTeX/CV.tex",
+		"/Users/patrikbackstrom/Library/Application Support/Bix/Drive/Bix - origo/CVLaTeX/CL_CV.tex",
+		"/Users/patrikbackstrom/Library/Application Support/Bix/Drive/Bix - origo/CVLaTeX/title.tex",
+		"/Users/patrikbackstrom/Git/T5 Project/final_report/sections/appendixSurvey.tex",
+		"/Users/patrikbackstrom/Library/Application Support/Bix/Drive/Bix - origo/CVLaTeX/CL.tex",
+		"/Users/patrikbackstrom/Git/T6/Thesis proposals.txt",
+		"/Users/patrikbackstrom/Dropbox/TERM6/Thesis proposals.txt",
+		"/Users/patrikbackstrom/Git/T5 Project/.gitignore",
+		"/Users/patrikbackstrom/Git/Assembly/hello_asm.s",
+		"/Applications/Notes.app/Contents/MacOS/Notes",
+		"/Users/patrikbackstrom/Desktop/blablabla.txt",
+		"/Users/patrikbackstrom/Library/Application Support/Bix/Drive/Bix - origo/CVLaTeX/DIT037_Patrik_Bäckström_outlook.tex",
+		"/Users/patrikbackstrom/Dropbox/TERM5/DIT037 Project, Changing Software Development Process/DIT037_Patrik_Bäckström_outlook.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"render_unit",
+			"tmp_rend",
+			"set_pos_y",
+			".set_po",
+			"ca∂mera",
+			"vector",
+			"gRenderer",
+			"load_map",
+			"Tile",
+			"creswell",
+			"feelgood",
+			"[feelgood]",
+			"social dynamics]",
+			"[social dynamics]",
+			"\\cite{chong2007social}",
+			"‘",
+			"1574",
+			"1522",
+			"1523",
+			"1575",
+			"2",
+			"1686",
+			"1683",
+			"2",
+			"127.0.0.1 lmlicenses.wip4.adobe.com",
+			",",
+			"Constants::VERTICAL_TEXTURE",
+			"Constants::CORNER_TEXTURE",
+			"Constants::HORISONTAL_TEXTURE",
+			"Constants::FILL_TEXTURE",
+			"WORLD_WIDTH",
+			"SCREEN_HEIGHT",
+			"SCREEN_WIDTH",
+			"WORLD_WIDTH",
+			"gWindow",
+			"gRenderer",
+			"Tiles",
+			"TILES_PER_SCREEN_W",
+			"HORISONTAL_TEXTURE",
+			"CORNER_TEXTURE",
+			"VERTICAL_TEXTURE",
+			"FILL_TEXTURE",
+			"1523",
+			"1475",
+			"1522",
+			"1575",
+			"close",
+			"PoDoFo::",
+			"output",
+			"488d 0d74 0c00 00",
+			"76 1e",
+			"761e",
+			"6a 76",
+			"6a76",
+			"gHelloWorld",
+			"I",
+			"\\cite",
+			"contact",
+			"contact per",
+			"rate",
+			"cl_updaterate",
+			"cl_interp",
+			"cl_disablehtmlmotd",
+			"mat_queue_mode",
+			"Roomtype",
+			"Thursday",
+			"Tuesday",
+			"Monday",
+			"Wednesday",
+			"Friday",
+			"Wednesday",
+			"tempEvents",
+			"removeEvent",
+			"findService",
+			"findServices",
+			"EList",
+			"protected",
+			"TODO",
+			"StaffComponent_EmployeeImpl",
+			"findAccount",
+			"TODO",
+			"getSsn(",
+			"getSsn",
+			"Employee",
+			"staffcomponent_employeeimpl",
+			"TODO",
+			"todo",
+			"to-do",
+			"BookingComponent_GuestImpl",
+			"post release",
+			"cross-functional",
+			"\"s-f\"",
+			"s-f",
+			"descision",
+			"proc",
+			"derby",
+			"Lant'z",
+			"John's",
+			";",
+			"firstly",
+			"adress",
+			"JL",
+			"AS",
+			"deming",
+			"[PAULK93]",
+			"[BOEHM06]",
+			"[DEMING98]",
+			"[THOMAS94]",
+			"[CALVO02]",
+			"[ZAHRAN98]",
+			"[BRIAND01]",
+			"BRIAND01",
+			"UNTER12",
+			"[UNTER12]",
+			"\\cite",
+			"Pettersson2008",
+			"[PETTERSSON08]",
+			"mdd",
+			"agile",
+			"mdd",
+			"'",
+			"FALSE",
+			"	",
+			" ",
+			"\\hline",
+			"FALSE",
+			"MDD",
+			"&"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mm.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6482,
+								6482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3087.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/include/constants.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/include/graphics.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/include/actor.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/include/player.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/player.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1637,
+								1637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"world.cpp",
+				"src/world.cpp"
+			],
+			[
+				"mm.cp",
+				"src/mm.cpp"
+			],
+			[
+				"",
+				"~/Dropbox/TERM5/References.bib"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
