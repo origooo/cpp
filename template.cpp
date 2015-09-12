@@ -2,14 +2,21 @@
 
 using namespace std;
 
-template <class T>
-T someFunction(T a, T b) {
-	return a+b;
+template <class T, int multiplier> void multiply(T &val) {
+	val *= multiplier;
 }
 
 int main() {
-	std::cout << someFunction(2,2) << endl;
-	std::cout << someFunction(3,8) << endl;
+	int a = 2;
+	double b = 2.12345;
+
+	std::cout << a << endl;
+	multiply<decltype(a),2>(a);
+	std::cout << a << endl;
+
+	std::cout << b << endl;
+	multiply<decltype(b),2>(b);
+	std::cout << b << endl;
 
 	return 0;
 }
